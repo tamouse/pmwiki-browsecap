@@ -1,0 +1,1 @@
+cookbook/browsecap/README.txt

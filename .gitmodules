@@ -1,0 +1,3 @@
+[submodule "phpbrowscap"]
+	path = phpbrowscap
+	url = https://github.com/GaretJax/phpbrowscap.git
