@@ -1,0 +1,1 @@
+../../phpbrowscap/src/phpbrowscap/Browscap.php
